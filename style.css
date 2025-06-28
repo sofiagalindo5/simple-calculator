@@ -3,7 +3,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: #f0f0f0;
+  background-color: #ce44a0;
   font-family: sans-serif;
 }
 
@@ -53,6 +53,6 @@ button:hover {
 /* Special style for the "C" (clear) button */
 .clear {
   grid-column: span 4;
-  background-color: #ff6b6b;
+  background-color: #ec8cc6;
   color: white;
 }
